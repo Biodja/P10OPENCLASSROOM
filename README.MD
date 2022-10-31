@@ -15,7 +15,7 @@ git clone https://github.com/GDSDC/OpenclassroomsProject-P10.git
 Accédez au répertoire cloné.
 
 ```bash
-cd OpenclassroomsProjectP10
+cd p10_openclassroom
 ```
 
 ### 2. Création d'un environnement virtuel 
