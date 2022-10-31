@@ -1,5 +1,4 @@
 # P10OPENCLASSROOM
-OpenClassRooms Project-P10 est un projet Python ayant un but d'apprentissage dans le cadre de la formation OpenClassRooms Développeur d'Application Python.  
 Thème du projet : Créez une API sécurisée RESTful en utilisant Django REST.
 
 ## Installation
