@@ -56,6 +56,12 @@ python manage.py migrate
 
 ### 1. Démarrage du serveur local
 
+""
+identifiant de test 
+login : test
+mdp : test
+""
+
 Accédez au dossier de travail.
 ```bash
 cd softdesk
